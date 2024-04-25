@@ -9,6 +9,20 @@ dvbndfbbg
 background: #F0F8FF;
 }
 
+dvbndfbbg
+/*Цвет кнопки при наведении*/
+.ec-size .ec-store .form-control--primary .form-control__button:hover {
+background: #F0F8FF;
+frgergvr4466rtfg
+/*Цвет кнопки при наведении*/
+.ec-size .ec-store .form-control--primary .form-control__button:hover {
+background: #F0F8FF;
+}dvbnddgfghjyj
+/*Цвет кнопки при наведении*/
+.ec-size .ec-store .form-control--primary .form-control__button:hover {
+background: #F0F8FF;
+}
+
 /*Цвет текста*/
 .ec-size .ec-store .form-control--primary .form-control__button {
 color: black;
